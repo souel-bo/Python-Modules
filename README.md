@@ -202,7 +202,3 @@ Throughout this journey, I regularly refer to:
 - mypy Documentation
 
 ---
-
-# License
-
-This repository is intended for educational purposes and serves as a personal learning resource.
