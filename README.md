@@ -203,35 +203,6 @@ Throughout this journey, I regularly refer to:
 
 ---
 
-# Progress
-
-| Module | Status |
-|---------|--------|
-| Module 00 | In Progress |
-| Module 01 | Not Started |
-| Module 02 | Not Started |
-| Module 03 | Not Started |
-| Module 04 | Not Started |
-| Module 05 | Not Started |
-| Module 06 | Not Started |
-| Module 07 | Not Started |
-| Module 08 | Not Started |
-| Module 09 | Not Started |
-
----
-
-# Future Goals
-
-By the end of this learning journey, I aim to:
-
-- Write clean, maintainable Python code.
-- Understand Python's internal object model.
-- Apply Python to larger software projects.
-- Use Python confidently for backend development and automation.
-- Be well prepared for projects such as **ft_transcendence** and professional software engineering work.
-
----
-
 # License
 
 This repository is intended for educational purposes and serves as a personal learning resource.
